@@ -2,4 +2,4 @@ These files were created as part of a homework assignment, I've only included re
 
 search.py - contains a barebones implementation of BFS, DFS, Uniform Cost Search and Astar. Implemenation starts at line 76
 
-multiAgents.py - contains implementations of a minimax search with alphabeta pruning
+multiAgents.py - contains implementations of a minimax search with Alpha-beta pruning
